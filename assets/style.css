@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+    color: gold;
+    font-family: sans-serif;
+  }
+  
+  h1, h2, h3 {
+    color: gold;
+  }
+  
+  button {
+    background-color: gold;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: black;
+    color: gold;
+  }
+  
+  #quiz-container {
+    margin-top: 50px;
+  }
+  
+  #quiz-container h3 {
+    margin-top: 20px;
+  }
+  
+  label {
+    margin-left: 10px;
+  }
+  
+  #timer {
+    position: center;
+    top: 20px;
+    right: 20px;
+    font-size: 24px;
+  }
+
+  .hide{
+    display: none;
+  }
